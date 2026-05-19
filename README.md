@@ -1,2 +1,1 @@
-# Logiconcepts-
-Primer repositorio 
+
